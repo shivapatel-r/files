@@ -4,3 +4,9 @@ Click Window → Show View → Project Explorer.
 Selecting JDK
 Windows -> Preferences -> JRE -> Installed JREs
 
+Save All Files
+Ctrl+Shift+s
+
+Formatting
+Ctrl+Shift+f
+
