@@ -10,3 +10,5 @@ Ctrl+Shift+s
 Formatting
 Ctrl+Shift+f
 
+Show Console 
+Window ->  Show View -> Console
